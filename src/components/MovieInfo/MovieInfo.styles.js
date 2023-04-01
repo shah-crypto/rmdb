@@ -69,4 +69,9 @@ export const Text = styled.div`
       font-size: var(--fontBig);
     }
   }
+
+  .genre {
+    margin-top: 30px;
+    margin-right: 40px;
+  }
 `;
